@@ -33,9 +33,13 @@ ________________________________________________________________________________
 
 🤝 LOOKING TO COLLAB ON
 
-Open Source Projects
-Full-Stack Web Applications
-Frontend Development Projects
-Developer Communities
-Innovative Startup Ideas
-Hackathons and Team Projects
+Open Source Projects |
+Full-Stack Web Applications |
+Frontend Development Projects |
+Developer Communities |
+Innovative Startup Ideas |
+Hackathons and Team Projects |
+
+__________________________________________________________________________________________________________________________
+
+connect with me through my email or linkedin!
