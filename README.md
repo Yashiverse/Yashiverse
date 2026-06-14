@@ -13,9 +13,13 @@ ABOUT ME
 _________________________________________________________________________________________________________________________
 🛠️ TECH STACK
 Languages: JavaScript, HTML5, CSS3, C, Java
-Frontend: React.js, Tailwind CSS, Vite
+
+Frontend: React.js, Tailwind CSS, Vite, GSAP 
+
 Backend: Node.js, Express.js
+
 Database: MongoDB, MySQL
+
 Tools & Platforms: Git, GitHub, VS Code, Postman, AWS
 _________________________________________________________________________________________________________________________
 🤝 LOOKING TO COLLAB ON
